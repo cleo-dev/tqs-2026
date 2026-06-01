@@ -5,7 +5,7 @@
 
 Este repositório é um **livro prático em capítulos**. Construímos juntos uma pequena aplicação web (um validador de CPF e e-mail) e usamos cada etapa para demonstrar um conceito da disciplina: testes automatizados, TDD, qualidade de código, CI/CD, deploy automatizado e workflow de Pull Requests.
 
-A ideia é que você **leia e execute cada capítulo em ordem**, terminando com um projeto completo que você reproduziu do zero.
+A ideia é que você **leia e execute cada capítulo em ordem**, terminando com um projeto completo que você reproduziu do zero a partir das instruções desse repositorio.
 
 🌐 **Demo público**: `https://<seu-usuario>.github.io/tqs-2026/`
 
